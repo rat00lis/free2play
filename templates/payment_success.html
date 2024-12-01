@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment Successful</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f0f8ff;
+            color: #333;
+            text-align: center;
+        }
+        h1 {
+            color: #28a745;
+        }
+        p {
+            font-size: 1.2em;
+            margin-top: 20px;
+        }
+        .back-link {
+            display: inline-block;
+            margin-top: 30px;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1em;
+        }
+        .back-link:hover {
+            background-color: #0056b3;
+        }
+        .icon {
+            font-size: 50px;
+            color: #28a745;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Payment Successful</h1>
+    <div class="icon">✔️</div>
+    <p>Thank you for your purchase! Your payment has been processed successfully.</p>
+    <a class="back-link" href="{{ url_for('list_cards') }}">Back to Card List</a>
+</body>
+</html>
