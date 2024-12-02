@@ -53,11 +53,6 @@ conn.execute('''
     )
 ''')
 
-# Agregar índices para mejorar el rendimiento
-conn.execute('CREATE INDEX idx_card_id ON Card(card_id)')
-conn.execute('CREATE INDEX idx_user_mail ON User(user_mail)')
-conn.execute('CREATE INDEX idx_card_tcg ON Card(card_tcg)')
-
 # Confirmar los cambios y cerrar la conexión
 conn.commit()
 conn.close()
