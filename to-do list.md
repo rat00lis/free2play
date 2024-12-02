@@ -47,12 +47,12 @@ Cada plan incluirá:
 
 1. **Informe Final**  
 Debe incluir:  
-   - Descripción de la plataforma y servicios.  
-   - Herramientas utilizadas.  
-   - Métricas de evaluación.  
-   - Análisis de decisiones y restricciones.  
-   - Demostración operativa de la plataforma.  
-   - Conclusiones y propuestas de escalabilidad.  
+   - [X] Descripción de la plataforma y servicios.  
+   - [ ] Herramientas utilizadas.  
+   - [ ] Métricas de evaluación.  
+   - [ ] Análisis de decisiones y restricciones.  
+   - [ ] Demostración operativa de la plataforma.  
+   - [ ] Conclusiones y propuestas de escalabilidad.  
 
 2. **Fechas y Plazos**  
    - **24 de octubre**: Inscripción de tema y propuesta.  
