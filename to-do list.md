@@ -28,16 +28,16 @@ Cada plan incluirá:
 # Implementacion
 - [x] Consulta por disponibilidad y precio de productos.  
 - [x] Compra (registro en base de datos y confirmación).
-- [ ] Establecer máquinas virtuales con capacidad mínima fija para pruebas de estrés.
+- [x] Establecer máquinas virtuales con capacidad mínima fija para pruebas de estrés.
 - [ ] Crear la configuración inicial mínima en el notebook y realizar pruebas de carga.
 - [ ] Diseñar e implementar una base de datos para registrar datos de las transacciones.
 
 ## Informe / ppt
 
 ### Definición del Objetivo  
-- [ ] Definir el objetivo del negocio y describir la arquitectura de la plataforma web de compra y venta.
+- [x] Definir el objetivo del negocio y describir la arquitectura de la plataforma web de compra y venta.
 
-- [ ] Propuesta y demostración de mejoras en capacidad para escalar los servicios de la plataforma.
+- [x] Propuesta y demostración de mejoras en capacidad para escalar los servicios de la plataforma.
 
 - [ ] Seleccionar herramientas para cargar, medir, monitorear y graficar resultados (ej. Apache JMeter).
 
@@ -49,7 +49,7 @@ Cada plan incluirá:
 Debe incluir:  
    - [X] Descripción de la plataforma y servicios.  
    - [ ] Herramientas utilizadas.  
-   - [ ] Métricas de evaluación.  
+   - [x] Métricas de evaluación.  
    - [ ] Análisis de decisiones y restricciones.  
    - [ ] Demostración operativa de la plataforma.  
    - [ ] Conclusiones y propuestas de escalabilidad.  
